@@ -1,0 +1,16 @@
+C:\Users\bbare\OneDrive\Visual Studio Projects\VS_2017\PiTester\PiTester\bin\Debug\PiTester.exe.config
+C:\Users\bbare\OneDrive\Visual Studio Projects\VS_2017\PiTester\PiTester\bin\Debug\PiTester.exe
+C:\Users\bbare\OneDrive\Visual Studio Projects\VS_2017\PiTester\PiTester\bin\Debug\PiTester.pdb
+C:\Users\bbare\OneDrive\Visual Studio Projects\VS_2017\PiTester\PiTester\obj\Debug\PiTester.csproj.AssemblyReference.cache
+C:\Users\bbare\OneDrive\Visual Studio Projects\VS_2017\PiTester\PiTester\obj\Debug\PiTester.csproj.SuggestedBindingRedirects.cache
+C:\Users\bbare\OneDrive\Visual Studio Projects\VS_2017\PiTester\PiTester\obj\Debug\MainWindow.g.cs
+C:\Users\bbare\OneDrive\Visual Studio Projects\VS_2017\PiTester\PiTester\obj\Debug\App.g.cs
+C:\Users\bbare\OneDrive\Visual Studio Projects\VS_2017\PiTester\PiTester\obj\Debug\PiTester_MarkupCompile.cache
+C:\Users\bbare\OneDrive\Visual Studio Projects\VS_2017\PiTester\PiTester\obj\Debug\PiTester_MarkupCompile.lref
+C:\Users\bbare\OneDrive\Visual Studio Projects\VS_2017\PiTester\PiTester\obj\Debug\MainWindow.baml
+C:\Users\bbare\OneDrive\Visual Studio Projects\VS_2017\PiTester\PiTester\obj\Debug\PiTester.g.resources
+C:\Users\bbare\OneDrive\Visual Studio Projects\VS_2017\PiTester\PiTester\obj\Debug\PiTester.Properties.Resources.resources
+C:\Users\bbare\OneDrive\Visual Studio Projects\VS_2017\PiTester\PiTester\obj\Debug\PiTester.csproj.GenerateResource.cache
+C:\Users\bbare\OneDrive\Visual Studio Projects\VS_2017\PiTester\PiTester\obj\Debug\PiTester.csproj.CoreCompileInputs.cache
+C:\Users\bbare\OneDrive\Visual Studio Projects\VS_2017\PiTester\PiTester\obj\Debug\PiTester.exe
+C:\Users\bbare\OneDrive\Visual Studio Projects\VS_2017\PiTester\PiTester\obj\Debug\PiTester.pdb
